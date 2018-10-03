@@ -1,0 +1,186 @@
+div#container{
+		width:975px;
+		margin-left:auto;
+		margin-right:auto;
+}
+div#banner{
+position:relative;
+}
+div#mainnav{
+	height:50px;
+	background-color:#FF9966;
+	margin-top:-10px;
+	
+	position:relative;
+}
+div#img{
+	width:810px;
+	margin-top:15px;
+	margin-bottom:8px;
+	margin-left:175px;
+
+}
+div#sidenavandcontentcontainer{
+	display:inline-block;
+	height:100%;
+	position:relative;
+}
+div#sidenavandcontentcontainer div{
+	display:inline-block;
+	top:0;
+}
+div#sidenavcontainer{
+	width:175px;
+	float:left;
+	position:fixed;
+
+
+}
+div#sidenav{
+	width:170px;
+	display:inline-block;
+	position:fixed;
+	background-color:#FF9966;
+	color:black;
+	font-size:18px;
+	line-height:25px;
+	font-size:19px;
+	border-radius:25px;
+	border:solid 1px black;
+	margin-top:310px;
+
+}
+div#content{
+	width:800px;
+	float:right;
+	height:100%;
+}
+div#footer{
+	width:795px;
+	border-top:solid thin black;
+	font-size:32px;
+	color:black;
+	text-align:left;
+	display:block;
+	margin-left:170px;
+}
+#footer ul li
+{
+	display:inline;
+	padding-left:1px;
+	padding-right:60px;
+}
+div#homepageminiimages{
+	width:40%;
+	float:right;
+}
+div#homepagetextcontent{
+	width:60%;
+	float:left;
+}
+
+.imagelift:hover{
+	opacity:0.8
+}
+h1{
+	text-align:center;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	Border-bottom:solid thin black;
+	font-size:45px;
+}
+p{
+	font-family:sans-serif;
+	font-size:20px;
+}
+.styledletter
+{
+	float:left;
+	padding-right:10px;
+	margin-top:-20px;
+	margin-bottom:-25px;
+	font-size:80px;
+	font-family:sans-serif;
+}
+.mainnavstyling:hover
+{
+	color:white;
+	background-color:#FFCC66;
+}
+*.mainnavstyling
+{
+	background-color:#ff9966;
+	color:#FFFFFF;
+	width: 162.5px;
+	height:20px;
+	padding:20px;
+	padding-left: 0px;
+	padding-right: 0px;
+	text-align: center;
+	display: block;
+	float: left;
+	font-size: 15px;
+	text-decoration:none;
+}
+#foot_contact
+{
+	text-align:center;
+	width:150px;
+	margin-left:175px;
+	padding-right:40px;
+	height:400px;
+	border-right:solid thin black;
+	position:relative;
+}
+#foot_contact li
+{
+	padding-top:20px;
+	margin-bottom:40px;
+	font-size:20px;
+}
+#foot_trip
+{
+	text-align:left;
+	width:145px;
+	margin-left:400px;
+	padding-right:40px;
+	height:402px;
+	border-right:solid thin black;
+	margin-top:-417px;
+}
+#foot_trip li
+{
+	padding-top:20px;
+	margin-bottom:40px;
+	font-size:20px;
+}
+#foot_home
+{
+	text-align:left;
+	width:120px;
+	margin-left:610px;
+	padding-right:40px;
+	height:400px;
+	border-right:solid thin black;
+	margin-top:-417px;
+}
+#foot_home li
+{
+	padding-top:20px;
+	margin-bottom:40px;
+	font-size:20px;
+}
+#foot_location
+{
+	text-align:left;
+	width:120px;
+	margin-left:780px;
+	padding-right:40px;
+	height:400px;
+	margin-top:-417px;
+}
+#foot_location li
+{
+	padding-top:20px;
+	margin-bottom:40px;
+	font-size:20px;
+}

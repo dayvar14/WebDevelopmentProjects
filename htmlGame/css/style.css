@@ -1,0 +1,25 @@
+*
+{
+	margin:0px;
+}
+.view
+{
+	width:vw;
+	height:100%;
+}
+#test-div
+{
+	position:relative;
+	background-color: #FF00FF;
+}
+#main
+{
+	position:fixed;
+}
+.player
+{
+	position:absolute;
+	width:128px;
+	height:128px;
+	background-color:red;
+}
